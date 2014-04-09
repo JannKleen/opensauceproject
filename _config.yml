@@ -9,7 +9,7 @@ url:              http://jannkleen.github.io/opensauceproject
 # Owner/author information
 owner:
   name:           Open Sauce Consortium
-  avatar:         bio-photo.jpg
+  avatar:         site-logo.jpg
   email:          mail@example.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
@@ -36,11 +36,7 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin

@@ -34,10 +34,10 @@ bing_verify:
 links:
   - title: Latest Sauces
     url: /
+  - title: All Sauces
+    url: /sauces/
   - title: About
     url: /about/
-  - title: Sauces
-    url: /sauces/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
